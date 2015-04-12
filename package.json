@@ -1,0 +1,35 @@
+{
+  "name": "bezier-easing-picker",
+  "version": "0.0.1",
+  "description": "React component which allows to pick predefined bezier curve",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "react": "*"
+  },
+  "browserify": {
+    "transform": [
+      "babelify"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gre/bezier-easing-picker.git"
+  },
+  "keywords": [
+    "react-component",
+    "bezier-easing",
+    "easing"
+  ],
+  "author": "Gaëtan Renaudeau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gre/bezier-easing-picker/issues"
+  },
+  "homepage": "https://github.com/gre/bezier-easing-picker",
+  "devDependencies": {},
+  "dependencies": {
+    "babelify": "^5.0.4",
+    "object-assign": "^2.0.0",
+    "uncontrollable": "^1.1.3"
+  }
+}
