@@ -1,6 +1,6 @@
 {
   "name": "bezier-easing-picker",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React component which allows to pick predefined bezier curve",
   "main": "src/index.js",
   "peerDependencies": {
